@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Homemade Boba Drink</title>
+</head>
+
+<body>
+   <div style = "text-align: center;">
+     <body style="background: #D2B48C">
+  <h1>Homemade Boba Drink!</h1>
+     <h2>Recipe by Faye Yang</h2>
+         <img src="boba.jpeg" width="250" height="250">
+       <div style = "text-align: left;">
+       <h3>Materials:</h3>
+       <h3>1. Water</h3>
+       <h3>2. Brown Sugar</h3>
+       <h3>3. Cassava Powder/Cassava Starch/Tapioca Powder</h3>
+       <h3>4. Thingy to cook with (ex. pot, pan, etc.))</h3>
+         <div style = "text-align: center;">
+         <img src="bobain.jpg" >
+            <div style = "text-align: left;">
+      <h3>Steps to making tapioca pearls</h3>
+           <h3>1. Pour half cup of water into pan</h3>
+           <h3>2. Pour 1/3 cup of brown sugar into pan</h3>
+           <h3>3. Mix until the sugar is melted</h3>
+           <h3>4. Pour 1/2 cup of the flour into the pan</h3>
+           <h3>5. Mix and cook on lowest heat until thick and doughy</h3>
+           <h3>6. 1/2 cup of flour on a clean surface (ex. chopping board, cleaned table, etc.)</h3>
+           <h3>7. Put your mixture on the clearn surface and knead with the flour until it becomes tough</h3>
+           <h4>(Sprinkle more flour if still sticky)</h4>
+           <h3>8. Roll into 5-10 thin cylindars and lay them side by side</h3>
+           <h3>9. Cut small pieces of each cylindar</h3>
+           <h4>(this will help you with turning them into tapioca pearls)</h4>
+           <h3>10. Roll them into balls and put in your pot!</h3>
+           <h4>(Sprinkle more flour to avoid sticking)</h4>
+               <div style = "text-align: center;">
+           <img src="Screenshot (834).png" width="250" height="200">
+                  <div style = "text-align: left;">
+                    <h3>Making your drink!</h3>
+                    <h3>1. Add 1 liter of water</h3>
+                    <h3>2. Boil for ~25 minutes</h3>
+                    <h3>3. Stir occasionally</h3>
+                    <h3>4. Turn off heat and keep cover for ~30 minutes</h3>
+                    <h3>(Optional... Add 1/4 cup of water and 1/2 cup of brown sugar. Then, boil for 3 minutes and add pearls and cook until thick.)</h3>
+                    <h3>5. Add desired liquid into cup!</h3>
+                    <h3>6. Add boba pearls into drink!</h3>
+                     <div style = "text-align: left;">
+                    <h1>Enjoy your drink!</h1>
+</html>
